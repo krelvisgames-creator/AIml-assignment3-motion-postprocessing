@@ -621,6 +621,6 @@ namespace Tycoon.Demo
 
     public static class DemoPaths
     {
-        public const string ProcessedFolder = @"C:\Users\junha\OneDrive\바탕 화면\인머러\AI_ML_UnityProject\AI_ML_Python_Final\final_project\data\processed";
+        public const string ProcessedFolder = @"data/processed";   // set to your final_project/data/processed folder;
     }
 }
